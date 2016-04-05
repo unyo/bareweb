@@ -1,6 +1,6 @@
 # README
 
-BareWeb: A barebone ES6 starter kit using Webpack, Backbone, React, and CSS Modules
+BareWeb: A barebone ES6 starter kit using Backbone, React, Webpack, and CSS Modules
 
 ## Prerequisites
 - NPM
