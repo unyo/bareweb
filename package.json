@@ -1,11 +1,11 @@
 {
   "name": "BareWeb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BareWeb: Backbone, React, Webpack, CSS Modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack",
+    "build": "webpack && gulp package",
     "start": "webpack-dev-server"
   },
   "keywords": [
@@ -24,6 +24,8 @@
     "backbone": "^1.2.3",
     "css-loader": "^0.23.1",
     "file-loader": "^0.8.5",
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0",
     "html-loader": "^0.4.3",
     "jade": "^1.11.0",
     "jade-loader": "^0.8.0",

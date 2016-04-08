@@ -1,4 +1,4 @@
-# README
+# BareWeb
 
 BareWeb: A barebone ES6 starter kit using Backbone, React, Webpack, and CSS Modules
 
